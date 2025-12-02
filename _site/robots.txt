@@ -1,1 +1,1 @@
-Sitemap: http://10.0.22.223:4000/sitemap.xml
+Sitemap: /https://beautifulsruizgonzalez.netlify.app/sitemap.xml
