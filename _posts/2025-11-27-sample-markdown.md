@@ -15,7 +15,7 @@ author: Samuel Ruiz
 
 Si hay un plato capaz de unir culturas, cruzar fronteras y reinventarse en cada país, es la **hamburguesa**. Lo que comenzó como un bocado sencillo se ha convertido en una obra de arte culinaria que mezcla técnica, creatividad y tradición.  
 En esta guía te llevo por un recorrido mundial a través de **las hamburguesas más destacadas del planeta**, analizando ingredientes, estilos y lo que las hace únicas.
-![Hamburguesa](https://github.com/SRuizGonzalez/beautiful/assets/img/portada.jpg)
+
 ---
 
 ## ¿Qué hace que una hamburguesa sea realmente la *mejor*?
