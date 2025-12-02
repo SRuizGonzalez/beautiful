@@ -1,1 +1,1 @@
-Sitemap: /https://beautifulsruizgonzalez.netlify.app/sitemap.xml
+Sitemap: https://beautifulsruizgonzalez.netlify.app//sitemap.xml
