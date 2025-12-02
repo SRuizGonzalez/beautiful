@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>HAMBUERGUESAS Y PIZZAS</title>
+    
+    
+    <description>This website is a virtual proof that I&apos;m awesome</description>
+    
+    <link>http://10.0.22.223:4000/</link>
+    <atom:link href="http://10.0.22.223:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>TUS HAMBURGUESAS FAV</title>
+        
+        <dc:creator><![CDATA[ Samuel Ruiz ]]></dc:creator>
+        
+        <description>
+          Las mejores hamburguesas que vas a probar en tu vida - 
+          🍔Las Mejores Hamburguesas del Mundo (Guía Definitiva 2025) Si hay un plato capaz de unir culturas, cruzar fronteras y reinventarse en cada país, es la hamburguesa. Lo que comenzó como un bocado sencillo se ha convertido en una obra de arte culinaria que mezcla técnica, creatividad y tradición. En esta...
+        </description>
+        <pubDate>Thu, 27 Nov 2025 00:00:00 -0500</pubDate>
+        <link>http://10.0.22.223:4000/2025-11-27-sample-markdown/</link>
+        <guid isPermaLink="true">http://10.0.22.223:4000/2025-11-27-sample-markdown/</guid>
+      </item>
+    
+      <item>
+        <title>LAS MEJORES PIZZAS DEL MUNDO</title>
+        
+        <dc:creator><![CDATA[ Samuel Ruiz ]]></dc:creator>
+        
+        <description>
+          Estas son las mejores pizzas - 
+          🍕 Las Mejores Pizzas del Mundo La pizza es uno de los platos más queridos del planeta. Versátil, universal y capaz de adaptarse a cualquier cultura, hoy es un símbolo global que mezcla tradición, creatividad y pasión culinaria. En esta guía exploramos las pizzas más emblemáticas del mundo, analizando estilos,...
+        </description>
+        <pubDate>Wed, 26 Nov 2025 00:00:00 -0500</pubDate>
+        <link>http://10.0.22.223:4000/2025-11-26-flake-it-till-you-make-it/</link>
+        <guid isPermaLink="true">http://10.0.22.223:4000/2025-11-26-flake-it-till-you-make-it/</guid>
+      </item>
+    
+  </channel>
+</rss>
